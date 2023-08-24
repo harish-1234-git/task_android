@@ -23,7 +23,7 @@ import java.util.function.Consumer
 private const val MIN_OPENGL_VERSION = 3.0
 class MainActivity :AppCompatActivity(){
 
-
+//used lateinit variables here
     private lateinit var arFragment: ArFragment
     private lateinit var binding: ActivityMainBinding
 
